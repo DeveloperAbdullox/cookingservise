@@ -1,0 +1,16 @@
+{
+    "port": 4000,
+    "db_host": "localhost",
+    "db_username": "postgres",
+    "db_password": "12345",
+    "db_port": 5432,
+    "db_name": "cokingservise",
+    "access_key": "MyVeryVerySecretAccessKey",
+    "refresh_key": "MyVeryVerySecretRefreshKey",
+    "access_time": "15h",
+    "refresh_time": "60h",
+    "cookie_refresh_token_time": 1296000000,
+    "secret":"maxfiy",
+    "iv": "adssd123",
+    "crypt_password": "JudaKuchliMaxfiyPassword"
+  }
